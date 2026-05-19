@@ -42,7 +42,7 @@ export default async function LoginPage({
         <div className="w-full max-w-sm">
           {/* Logo */}
           <div className="mb-8 text-center">
-            <img src="/logo-transparent.png" alt="Theraverse Logo" className="mx-auto mb-6 h-64 w-64 object-contain invert" />
+            <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-6 h-48 w-auto object-contain" />
             <h1 className="mb-2 text-2xl font-semibold text-white">{t(m, 'login.heading')}</h1>
             <p className="text-tv-muted">{t(m, 'login.subtitle')}</p>
           </div>
@@ -87,7 +87,7 @@ export default async function LoginPage({
         {/* Content */}
         <div className="relative z-10 max-w-md px-12 text-center">
           {/* Logo */}
-          <img src="/logo-transparent.png" alt="Theraverse Logo" className="mx-auto mb-8 h-96 w-96 object-contain invert" />
+          <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-8 h-64 w-auto object-contain" />
 
           <h2 className="mb-4 text-3xl font-semibold text-white">{t(m, 'login.desktopHeading')}</h2>
           <p className="mb-10 text-tv-muted">

@@ -44,7 +44,7 @@ export default async function ResetPasswordPage() {
         <div className="w-full max-w-sm">
           {/* Logo */}
           <div className="mb-8 text-center">
-            <img src="/logo-header.png" alt="Theraverse Logo" className="mx-auto mb-6 h-12 w-auto object-contain invert" />
+            <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-6 h-12 w-auto object-contain" />
 
             {hasValidSession ? (
               <>
@@ -121,7 +121,7 @@ export default async function ResetPasswordPage() {
         {/* Content */}
         <div className="relative z-10 max-w-md px-12 text-center">
           {/* Large heart icon */}
-          <img src="/logo-header.png" alt="Theraverse Logo" className="mx-auto mb-8 h-16 w-auto object-contain invert" />
+          <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-8 h-16 w-auto object-contain" />
 
           <h2 className="mb-4 text-3xl font-semibold text-white">{t(m, 'resetPassword.desktopHeading')}</h2>
           <p className="mb-10 text-tv-muted">

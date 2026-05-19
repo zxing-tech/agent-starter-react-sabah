@@ -10,9 +10,9 @@ export const APP_CONFIG_DEFAULTS: AppConfig = {
   supportsScreenShare: false,
   isPreConnectBufferEnabled: true,
 
-  logo: '/logo-transparent.png',
+  logo: '/Flag_of_Sabah.svg.png',
   accent: '#1A8A8A',
-  logoDark: '/logo-transparent.png',
+  logoDark: '/Flag_of_Sabah.svg.png',
   accentDark: '#47C4CF',
   startButtonText: 'Start Conversation',
 };

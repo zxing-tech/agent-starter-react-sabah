@@ -11,9 +11,9 @@ export default async function AppLayout({ children }: AppLayoutProps) {
         <div className="mx-auto flex h-14 max-w-5xl items-center justify-between px-4">
           <a href="/" className="flex items-center gap-2">
             <img
-              src="/logo-header.png"
-              alt="Theraverse"
-              className="h-8 w-auto object-contain invert"
+              src="/Flag_of_Sabah.svg.png"
+              alt="Sabah"
+              className="h-8 w-auto object-contain"
             />
           </a>
           <nav className="flex items-center gap-1">
