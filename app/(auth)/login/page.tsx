@@ -42,7 +42,9 @@ export default async function LoginPage({
         <div className="w-full max-w-sm">
           {/* Logo */}
           <div className="mb-8 text-center">
-            <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-6 h-48 w-auto object-contain" />
+            <div className="mx-auto mb-6 text-4xl font-bold tracking-tight text-white">
+              Healthier <span className="text-primary">Sabah</span>
+            </div>
             <h1 className="mb-2 text-2xl font-semibold text-white">{t(m, 'login.heading')}</h1>
             <p className="text-tv-muted">{t(m, 'login.subtitle')}</p>
           </div>
@@ -87,7 +89,9 @@ export default async function LoginPage({
         {/* Content */}
         <div className="relative z-10 max-w-md px-12 text-center">
           {/* Logo */}
-          <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-8 h-64 w-auto object-contain" />
+          <div className="mx-auto mb-8 text-6xl font-bold tracking-tight text-white">
+            Healthier <span className="text-primary">Sabah</span>
+          </div>
 
           <h2 className="mb-4 text-3xl font-semibold text-white">{t(m, 'login.desktopHeading')}</h2>
           <p className="mb-10 text-tv-muted">

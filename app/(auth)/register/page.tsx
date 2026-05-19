@@ -42,7 +42,9 @@ export default async function RegisterPage({
         <div className="w-full max-w-sm">
           {/* Logo */}
           <div className="mb-8 text-center">
-            <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-6 h-12 w-auto object-contain" />
+            <div className="mx-auto mb-6 text-3xl font-bold tracking-tight text-white">
+              Healthier <span className="text-primary">Sabah</span>
+            </div>
             <h1 className="mb-2 text-2xl font-semibold text-white">{t(m, 'register.heading')}</h1>
             <p className="text-tv-muted">{t(m, 'register.subtitle')}</p>
           </div>
@@ -99,7 +101,9 @@ export default async function RegisterPage({
         {/* Content */}
         <div className="relative z-10 max-w-md px-12 text-center">
           {/* Large heart icon */}
-          <img src="/Flag_of_Sabah.svg.png" alt="Sabah" className="mx-auto mb-8 h-16 w-auto object-contain" />
+          <div className="mx-auto mb-8 text-5xl font-bold tracking-tight text-white">
+            Healthier <span className="text-primary">Sabah</span>
+          </div>
 
           <h2 className="mb-4 text-3xl font-semibold text-white">{t(m, 'register.desktopHeading')}</h2>
           <p className="mb-10 text-tv-muted">

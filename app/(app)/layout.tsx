@@ -10,11 +10,9 @@ export default async function AppLayout({ children }: AppLayoutProps) {
       <header className="fixed top-0 left-0 right-0 z-50 border-b border-slate-700/50 bg-slate-900/80 backdrop-blur-md">
         <div className="mx-auto flex h-14 max-w-5xl items-center justify-between px-4">
           <a href="/" className="flex items-center gap-2">
-            <img
-              src="/Flag_of_Sabah.svg.png"
-              alt="Sabah"
-              className="h-8 w-auto object-contain"
-            />
+            <span className="text-lg font-bold tracking-tight text-white">
+              Healthier <span className="text-primary">Sabah</span>
+            </span>
           </a>
           <nav className="flex items-center gap-1">
             <a

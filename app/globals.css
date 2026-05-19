@@ -14,7 +14,7 @@
   --fgSerious: #db1b06;
   --fgSuccess: #006430;
   --fgModerate: #a65006;
-  --fgAccent: #002cf2;
+  --fgAccent: #4D9DCE;
 
   --bg1: #f9f9f6;
   --bg2: #f3f3f1;
@@ -33,16 +33,17 @@
   --separatorModerate: #fbd7a0;
   --separatorAccent: #b3ccff;
 
-  /* TheraVerse brand palette */
-  --tv-bg: #FEFEFE;
-  --tv-surface: #F0F7F7;
-  --tv-border: #C8DCDC;
-  --tv-text: #003047;
-  --tv-muted: #6B8A99;
-  --tv-accent: #007A8A;
-  --tv-accent-hover: #006570;
-  --tv-link: #008B9D;
-  --tv-link-hover: #007A8A;
+  /* Healthier Sabah brand palette — matches the Sabah flag (light blue / white / red on navy) */
+  --tv-bg: #FFFFFF;
+  --tv-surface: #F0F6FB;
+  --tv-border: #C8DAE8;
+  --tv-text: #041E42;
+  --tv-muted: #6E89A8;
+  --tv-accent: #4D9DCE;
+  --tv-accent-hover: #3A85B5;
+  --tv-link: #4D9DCE;
+  --tv-link-hover: #3A85B5;
+  --tv-red: #C8102E;
 
   --radius: 0.625rem;
   --background: oklch(1 0 0);
@@ -51,9 +52,9 @@
   --card-foreground: oklch(0.145 0 0);
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.145 0 0);
-  --primary: #002cf2;
-  --primary-hover: #0020b9;
-  --primary-foreground: oklch(0.985 0 0);
+  --primary: #4D9DCE;
+  --primary-hover: #3A85B5;
+  --primary-foreground: #FFFFFF;
   --secondary: oklch(0.97 0 0);
   --secondary-foreground: oklch(0.205 0 0);
   --muted: #f3f3f1;
@@ -87,7 +88,7 @@
   --fgSerious: #ff7566;
   --fgSuccess: #3bc981;
   --fgModerate: #ffb752;
-  --fgAccent: #6e9dfe;
+  --fgAccent: #5BAEDC;
 
   --bg1: #070707;
   --bg2: #131313;
@@ -106,26 +107,27 @@
   --separatorModerate: #3f2208;
   --separatorAccent: #0c1640;
 
-  /* TheraVerse brand palette — dark mode */
-  --tv-bg: #0F1D28;
-  --tv-surface: #162530;
-  --tv-border: #2A3A48;
-  --tv-text: #C8D8E0;
-  --tv-muted: #6E8899;
-  --tv-accent: #47C4CF;
-  --tv-accent-hover: #38A8B2;
-  --tv-link: #5AD4DE;
-  --tv-link-hover: #7DE0E8;
+  /* Healthier Sabah brand palette — dark mode (Sabah-navy canton, light-blue accents, red highlights) */
+  --tv-bg: #041E42;
+  --tv-surface: #0A2D5C;
+  --tv-border: #1F3B6E;
+  --tv-text: #D4E4F5;
+  --tv-muted: #7A95B5;
+  --tv-accent: #5BAEDC;
+  --tv-accent-hover: #85C7E8;
+  --tv-link: #5BAEDC;
+  --tv-link-hover: #85C7E8;
+  --tv-red: #DA251D;
 
-  --background: #0B1A2B;
+  --background: #041E42;
   --foreground: oklch(0.985 0 0);
-  --card: #0F2537;
+  --card: #0A2D5C;
   --card-foreground: oklch(0.985 0 0);
-  --popover: #162530;
+  --popover: #0A2D5C;
   --popover-foreground: oklch(0.985 0 0);
-  --primary: #47C4CF;
-  --primary-hover: #1A8A8A;
-  --primary-foreground: oklch(0.205 0 0);
+  --primary: #5BAEDC;
+  --primary-hover: #4D9DCE;
+  --primary-foreground: #041E42;
   --secondary: oklch(0.269 0 0);
   --secondary-foreground: oklch(0.985 0 0);
   --muted: #131313;
