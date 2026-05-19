@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | TheraVerse',
+  title: 'Privacy Policy | Healthier Sabah',
 };
 
 export default function PrivacyPolicyPage() {
@@ -12,7 +12,7 @@ export default function PrivacyPolicyPage() {
         <strong>Effective date:</strong> 25 February 2026
       </p>
       <p>
-        TheraVerse (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) is committed to protecting your
+        Healthier Sabah (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) is committed to protecting your
         personal data in compliance with the Malaysian Personal Data Protection Act 2010 (PDPA). This
         policy explains what data we collect, how we use it, and your rights.
       </p>

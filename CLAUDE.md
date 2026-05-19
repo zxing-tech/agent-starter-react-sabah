@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is the **reference frontend** for Theraverse, a real-time mental health support AI chatbot with video avatar. It's a Next.js 15 app that connects to a Python backend agent via LiveKit Cloud (WebRTC/WebSocket). The `migration-react-to-next` branch is using this as the source of truth while migrating to `theraverse-next/` (Next.js 16).
+This is the **reference frontend** for Healthier Sabah, a real-time mental health support AI chatbot with video avatar. It's a Next.js 15 app that connects to a Python backend agent via LiveKit Cloud (WebRTC/WebSocket). The `migration-react-to-next` branch is using this as the source of truth while migrating to `theraverse-next/` (Next.js 16).
 
 ## Development Commands
 

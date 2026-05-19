@@ -20,7 +20,7 @@ export default function AuthError({
   return (
     <div className="fixed inset-0 z-10 flex items-center justify-center bg-tv-bg px-4">
       <div className="w-full max-w-sm text-center">
-        <p className="mb-3 text-4xl text-tv-muted">TheraVerse</p>
+        <p className="mb-3 text-4xl text-tv-muted">Healthier Sabah</p>
         <h1 className="mb-2 text-xl font-semibold text-white">{t('errorPage.heading')}</h1>
         <p className="mb-8 text-sm text-tv-muted">
           {t('errorPage.description')}

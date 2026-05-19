@@ -1,7 +1,7 @@
 import type { AppConfig } from './lib/types';
 
 export const APP_CONFIG_DEFAULTS: AppConfig = {
-  companyName: 'Theraverse Sabah',
+  companyName: 'Healthier Sabah',
   pageTitle: 'Sabah Mental Health Support',
   pageDescription: 'Connect with your compassionate AI companion in Sabah',
 

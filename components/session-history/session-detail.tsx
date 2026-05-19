@@ -287,7 +287,7 @@ export function SessionDetail({ session, messages }: SessionDetailProps) {
               )}
             >
               <p className="mb-1 text-xs font-medium opacity-70">
-                {msg.role === 'user' ? 'You' : 'Theraverse'}
+                {msg.role === 'user' ? 'You' : 'Healthier Sabah'}
               </p>
               <p className="text-sm leading-relaxed whitespace-pre-wrap">
                 {msg.content}

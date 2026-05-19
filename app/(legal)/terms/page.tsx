@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | TheraVerse',
+  title: 'Terms of Service | Healthier Sabah',
 };
 
 export default function TermsOfServicePage() {
@@ -12,20 +12,20 @@ export default function TermsOfServicePage() {
         <strong>Effective date:</strong> 25 February 2026
       </p>
       <p>
-        Welcome to TheraVerse. By creating an account or using our service, you agree to the following
-        terms. If you do not agree, please do not use TheraVerse.
+        Welcome to Healthier Sabah. By creating an account or using our service, you agree to the following
+        terms. If you do not agree, please do not use Healthier Sabah.
       </p>
 
       <h2>1. Acceptance of Terms</h2>
       <p>
-        By accessing or using TheraVerse, you confirm that you have read, understood, and agree to be
+        By accessing or using Healthier Sabah, you confirm that you have read, understood, and agree to be
         bound by these Terms of Service and our{' '}
         <a href="/privacy">Privacy Policy</a>.
       </p>
 
       <h2>2. Description of Service</h2>
       <p>
-        TheraVerse provides AI-powered mental health support through real-time text, voice, and video
+        Healthier Sabah provides AI-powered mental health support through real-time text, voice, and video
         conversations. The service is designed to supplement, not replace, professional mental health
         care. If you are in crisis, please contact local emergency services.
       </p>
@@ -35,20 +35,20 @@ export default function TermsOfServicePage() {
         <li>You must provide accurate information during registration.</li>
         <li>You are responsible for maintaining the confidentiality of your account credentials.</li>
         <li>You agree not to misuse the service or attempt to access it through unauthorized means.</li>
-        <li>You must be at least 18 years of age to use TheraVerse.</li>
+        <li>You must be at least 18 years of age to use Healthier Sabah.</li>
       </ul>
 
       <h2>4. Limitations of Liability</h2>
       <p>
-        TheraVerse is provided &quot;as is&quot; without warranties of any kind. We do not guarantee
+        Healthier Sabah is provided &quot;as is&quot; without warranties of any kind. We do not guarantee
         that the AI assistant will provide medically accurate or therapeutically appropriate advice. In
-        no event shall TheraVerse be liable for any indirect, incidental, or consequential damages
+        no event shall Healthier Sabah be liable for any indirect, incidental, or consequential damages
         arising from your use of the service.
       </p>
 
       <h2>5. Intellectual Property</h2>
       <p>
-        All content, design, and technology underlying TheraVerse are owned by us or our licensors. You
+        All content, design, and technology underlying Healthier Sabah are owned by us or our licensors. You
         may not copy, modify, or distribute any part of the service without prior written consent.
       </p>
 

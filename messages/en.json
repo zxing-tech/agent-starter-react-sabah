@@ -23,7 +23,7 @@
   },
   "login": {
     "heading": "Welcome back",
-    "subtitle": "Sign in to TheraVerse",
+    "subtitle": "Sign in to Healthier Sabah",
     "forgotPassword": "Forgot password?",
     "rememberMe": "Remember me for 30 days",
     "submit": "Sign in",
@@ -60,7 +60,7 @@
     "hasAccount": "Already have an account?",
     "loginLink": "Log in",
     "desktopHeading": "Safe Space for Your Mind",
-    "desktopSubtitle": "TheraVerse provides a secure and private environment for your mental health journey. Your conversations are protected and confidential."
+    "desktopSubtitle": "Healthier Sabah provides a secure and private environment for your mental health journey. Your conversations are protected and confidential."
   },
   "forgotPassword": {
     "heading": "Reset Your Password",
@@ -103,7 +103,7 @@
     "resendSuccess": "Verification email sent! Check your inbox.",
     "resendError": "Could not resend. Please try again.",
     "verifiedHeading": "Your account is verified!",
-    "verifiedSubtitle": "You can now log in and start your journey with TheraVerse.",
+    "verifiedSubtitle": "You can now log in and start your journey with Healthier Sabah.",
     "goToLogin": "Go to Login",
     "expiredHeading": "This link has expired",
     "expiredSubtitle": "No worries — verification links expire for your security. Request a new one below.",
@@ -113,12 +113,12 @@
     "heading": "Almost there",
     "subtitle": "Before we begin, we need your consent to ensure your data is handled safely.",
     "signedInAs": "Signed in as",
-    "consentPrefix": "I consent to TheraVerse collecting and processing my data in accordance with the",
+    "consentPrefix": "I consent to Healthier Sabah collecting and processing my data in accordance with the",
     "privacyLink": "Privacy Policy",
     "consentAnd": "and",
     "termsLink": "Terms of Service",
     "consentSuffix": ". My conversations and personal information will be kept confidential and secure.",
-    "submit": "Continue to TheraVerse",
+    "submit": "Continue to Healthier Sabah",
     "submitting": "Setting up your account..."
   },
   "errors": {

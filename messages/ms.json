@@ -23,7 +23,7 @@
   },
   "login": {
     "heading": "Selamat kembali",
-    "subtitle": "Log masuk ke TheraVerse",
+    "subtitle": "Log masuk ke Healthier Sabah",
     "forgotPassword": "Lupa kata laluan?",
     "rememberMe": "Ingat saya selama 30 hari",
     "submit": "Log masuk",
@@ -60,7 +60,7 @@
     "hasAccount": "Sudah mempunyai akaun?",
     "loginLink": "Log masuk",
     "desktopHeading": "Ruang Selamat untuk Minda Anda",
-    "desktopSubtitle": "TheraVerse menyediakan persekitaran yang selamat dan peribadi untuk perjalanan kesihatan mental anda. Perbualan anda dilindungi dan sulit."
+    "desktopSubtitle": "Healthier Sabah menyediakan persekitaran yang selamat dan peribadi untuk perjalanan kesihatan mental anda. Perbualan anda dilindungi dan sulit."
   },
   "forgotPassword": {
     "heading": "Tetapkan Semula Kata Laluan",
@@ -103,7 +103,7 @@
     "resendSuccess": "E-mel pengesahan dihantar! Semak peti masuk anda.",
     "resendError": "Tidak dapat menghantar semula. Sila cuba lagi.",
     "verifiedHeading": "Akaun anda telah disahkan!",
-    "verifiedSubtitle": "Anda kini boleh log masuk dan mula perjalanan anda dengan TheraVerse.",
+    "verifiedSubtitle": "Anda kini boleh log masuk dan mula perjalanan anda dengan Healthier Sabah.",
     "goToLogin": "Pergi ke Log Masuk",
     "expiredHeading": "Pautan ini telah tamat tempoh",
     "expiredSubtitle": "Jangan risau — pautan pengesahan tamat tempoh untuk keselamatan anda. Minta yang baharu di bawah.",
@@ -113,12 +113,12 @@
     "heading": "Hampir siap",
     "subtitle": "Sebelum kita mula, kami perlukan persetujuan anda untuk memastikan data anda dikendalikan dengan selamat.",
     "signedInAs": "Log masuk sebagai",
-    "consentPrefix": "Saya bersetuju TheraVerse mengumpul dan memproses data saya mengikut",
+    "consentPrefix": "Saya bersetuju Healthier Sabah mengumpul dan memproses data saya mengikut",
     "privacyLink": "Dasar Privasi",
     "consentAnd": "dan",
     "termsLink": "Terma Perkhidmatan",
     "consentSuffix": ". Perbualan dan maklumat peribadi saya akan dirahsiakan dan dilindungi.",
-    "submit": "Teruskan ke TheraVerse",
+    "submit": "Teruskan ke Healthier Sabah",
     "submitting": "Menyediakan akaun anda..."
   },
   "errors": {

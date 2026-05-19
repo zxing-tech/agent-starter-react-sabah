@@ -38,7 +38,7 @@ export const ChatEntry = ({
         <div className="flex items-center justify-between text-xs text-slate-400">
           {!hideName && (
             <span className="font-medium">
-              {isUser ? 'You' : 'Theraverse'}
+              {isUser ? 'You' : 'Healthier Sabah'}
             </span>
           )}
           {!hideTimestamp && (

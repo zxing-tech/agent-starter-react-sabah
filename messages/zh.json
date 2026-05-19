@@ -23,7 +23,7 @@
   },
   "login": {
     "heading": "欢迎回来",
-    "subtitle": "登录 TheraVerse",
+    "subtitle": "登录 Healthier Sabah",
     "forgotPassword": "忘记密码？",
     "rememberMe": "记住我30天",
     "submit": "登录",
@@ -60,7 +60,7 @@
     "hasAccount": "已有账户？",
     "loginLink": "登录",
     "desktopHeading": "心灵的安全空间",
-    "desktopSubtitle": "TheraVerse 为您的心理健康之旅提供安全和私密的环境。您的对话受到保护且完全保密。"
+    "desktopSubtitle": "Healthier Sabah 为您的心理健康之旅提供安全和私密的环境。您的对话受到保护且完全保密。"
   },
   "forgotPassword": {
     "heading": "重置密码",
@@ -103,7 +103,7 @@
     "resendSuccess": "验证邮件已发送！请查看收件箱。",
     "resendError": "无法重新发送。请重试。",
     "verifiedHeading": "您的账户已验证！",
-    "verifiedSubtitle": "您现在可以登录并开始您的 TheraVerse 之旅。",
+    "verifiedSubtitle": "您现在可以登录并开始您的 Healthier Sabah 之旅。",
     "goToLogin": "前往登录",
     "expiredHeading": "此链接已过期",
     "expiredSubtitle": "别担心 — 验证链接过期是为了保护您的安全。请在下方申请新链接。",
@@ -113,12 +113,12 @@
     "heading": "快要完成了",
     "subtitle": "在开始之前，我们需要您的同意以确保您的数据得到安全处理。",
     "signedInAs": "已登录为",
-    "consentPrefix": "我同意 TheraVerse 按照",
+    "consentPrefix": "我同意 Healthier Sabah 按照",
     "privacyLink": "隐私政策",
     "consentAnd": "和",
     "termsLink": "服务条款",
     "consentSuffix": "收集和处理我的数据。我的对话和个人信息将被保密和安全保护。",
-    "submit": "继续前往 TheraVerse",
+    "submit": "继续前往 Healthier Sabah",
     "submitting": "正在设置您的账户..."
   },
   "errors": {
