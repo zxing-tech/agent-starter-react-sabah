@@ -16,7 +16,7 @@ primary_region = 'sin'
   NODE_ENV = 'production'
 
 [http_service]
-  internal_port = 3000
+  internal_port = 3026
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
